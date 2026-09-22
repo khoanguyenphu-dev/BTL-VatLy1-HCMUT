@@ -1,0 +1,1 @@
+#đây là file gốc, sẽ lấy chính hàm của ae để chạy chtrinh
